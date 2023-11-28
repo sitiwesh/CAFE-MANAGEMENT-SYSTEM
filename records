@@ -28,7 +28,6 @@ if(!objiff)
 {
 cout<<"File could not be open !! Press any Key..."<<endl;
 cin.get();
-10
 }
 while(objiff.read((char *) &cust, sizeof(customer)))
 {

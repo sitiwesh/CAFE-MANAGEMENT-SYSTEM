@@ -40,7 +40,6 @@ cout<<"-------------------------------------------------------------------------
 //function to show customer details
 void showallcust(int c)
 {
-7
 cout<<"
 "<<cust_id<<setw(15)<<cname<<setw(23)<<address<<setw(27)<<phno<<endl;
 }
